@@ -23,3 +23,5 @@ pubspec.lock
 *.iws
 .idea/
 .DS_Store
+
+.fvm/flutter_sdk
