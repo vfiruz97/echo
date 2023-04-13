@@ -1,6 +1,5 @@
 import 'package:laravel_echo/src/channel/channel.dart';
 import 'package:laravel_echo/src/channel/presence-channel.dart';
-import 'package:socket_io/socket_io.dart';
 
 abstract class Connector {
   /// Default connector options.
